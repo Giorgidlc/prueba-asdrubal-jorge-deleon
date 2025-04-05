@@ -38,10 +38,14 @@ button {
   }
 }
 
-.test-section {
+main{
+  background-color: #b3f1cc;
+  padding: 20px;
+}
+.content__section {
   padding: 20px;
   margin: 20px;
-  border: 1px solid #ddd;
+  border: 1px solid #000;
 }
 
 footer {
