@@ -9,3 +9,5 @@
   <?php include 'sections/section-three.php'; ?>
 
 </div>
+
+<?php get_footer(); ?>
