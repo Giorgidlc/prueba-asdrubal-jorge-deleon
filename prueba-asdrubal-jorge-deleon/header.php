@@ -11,6 +11,3 @@
     <h1 id="main-title"><?php the_title() ?></h1>
     <button id="change-title">👋</button>
   </header>
-  
-</body>
-</html>

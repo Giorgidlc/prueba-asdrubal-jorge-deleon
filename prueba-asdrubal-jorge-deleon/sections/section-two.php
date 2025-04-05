@@ -1,0 +1,4 @@
+<section class="content__section">
+  <h2>Sección Dos</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sapien arcu, tincidunt pulvinar posuere nec, tristique vel metus. Proin quis dolor auctor est posuere fringilla. Pellentesque a feugiat quam, ac viverra nulla. Pellentesque ornare volutpat quam, eu maximus ligula ornare vel. In rutrum quam non magna rhoncus pharetra. Praesent urna dui, placerat et convallis ac, tempus sed nibh. Morbi sed blandit mi. Praesent at viverra eros, vitae facilisis arcu. Nulla a condimentum mauris. Quisque efficitur efficitur sagittis.</p>
+</section>
